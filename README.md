@@ -3,7 +3,7 @@
 ## 🧙 About Me - [JerryHead.com](https://jerryhead.com/)
 - <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/georgia.png" height="20px" align="center" alt="I live in Atlanta, GA" title="I live in Atlanta, GA"/> I live and work in **Atlanta, Georgia**
 - <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/ai.png" height="20px" align="center" alt="Applied Imagination" title="Applied Imagination"/> I am a **Senior Web Consultant** at Applied Imagination
-- 💻 I have **10+ Years** of experience in the web industry, developing and managing projects
+- 💻 I have **11+ Years** of experience in the web industry, developing and managing projects
 - 📚 I am a **Full Stack Developer** who enjoys all aspects of bringing a project together
 - 🔇 Most, if not all of my commits are in private repositories, so things might look a little barren
 
