@@ -10,10 +10,10 @@
 ## 📼 Technologies
 #### LAMP Stack is my current focus
 <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/php.png" height="20px" align="center"/> PHP &nbsp; <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/mysql.png" height="20px" align="center"/> MySQL
-#### I heavily work with PHP frameworks/software
+#### I work with several Javascript frameworks and technologies
+<img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/react.png" height="20px" align="center"/> React & React Native &nbsp; <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/nodejs.png" height="20px" align="center"/> Node JS &nbsp; <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/vue.png" height="20px" align="center"/> Vue &nbsp;  <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/jquery.png" height="20px" align="center"/> jQuery
+#### I have extensive experience with PHP frameworks/software
 <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/wp.png" height="20px" align="center"/> WordPress &nbsp; <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/laravel.png" height="20px" align="center"/> Laravel &nbsp; <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/magento.png" height="20px" align="center"/> Magento
-#### I also work with several Javascript frameworks and technologies
-<img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/vue.png" height="20px" align="center"/> Vue &nbsp; <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/nodejs.png" height="20px" align="center"/> Node JS &nbsp; <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/react.png" height="20px" align="center"/> React &nbsp; <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/jquery.png" height="20px" align="center"/> jQuery
 #### Additionally I have experience in Game Development
 <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/c++.png" height="20px" align="center"/> C++ &nbsp; <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/java.png" height="20px" align="center"/> Java &nbsp; <img src="https://raw.githubusercontent.com/JerryHead/JerryHead/master/lua.png" height="20px" align="center"/> Lua
 
